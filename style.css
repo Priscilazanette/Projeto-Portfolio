@@ -1,0 +1,20 @@
+@charset "UTF-8"; 
+body{
+    background-color: rgb(244, 211, 248);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    background-color: rgb(218, 146, 38);
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+    background-color: rgb(218, 146, 38);
+    text-align: center;
+}
+p{
+    text-align: center;
+}
