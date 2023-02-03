@@ -1,4 +1,4 @@
-# Projeto Portifólio
+# Projeto Portfólio
 <img align="right" alt="image" height="400" width="160" src="https://github.com/Priscilazanette/Imagens/blob/main/fdfffffffffff.png"/>
  Uma página muito simples que construi a partir do que aprendi nas aulas de HTML.<br> O projeto é construir um Portifólio online.  Foram usadas: </br>
  <ul>
