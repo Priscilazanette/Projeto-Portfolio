@@ -1,0 +1,72 @@
+@charset "UTF-8"; 
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@media (max-width: 720px)
+{
+    .flex {
+        flex-direction: column;
+    }
+}
+@media (max-width: x) {
+    flex-direction: column;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;     
+}
+.card-text {
+    background-color: rgb(225, 195, 243);
+    padding: 10px 30px;
+    font-size: 18px;
+    margin: 10px 0px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 500; 
+}
+.card-text p{
+    margin: 5px 2px;
+}
+.top-text{
+    font-size: 25px;
+    font-family: 'Rubik', sans-serif;
+}
+body{
+    font-family: 'MuseoModerno'; 
+    margin: 0% 0%
+}
+.holder-content{
+    margin: 0 25%;
+    margin-bottom: 150px;
+}
+.diagonal-efect{
+    width: 100%;
+    height: 75px;
+    margin: 0px;
+    background: rgb(255, 255, 255);
+    -webkit-transform: skew(2deg); /* Chrome, Opera */
+    -ms-transform: skew(2deg); /* IE */
+    transform: skewY(2deg);/* Padrão */
+    position: absolute;
+    justify-content: top;
+}
+.effect-box{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin-top: -45px;        
+}
+.sailor {
+    width: 100%;
+}
+#principal{
+    width: 0px;
+    height: 0px;
+    margin: 0px;
+    margin-bottom: 50px;
+}
+.footer{
+    background-color: rgb(225, 195, 243);
+    width: 100%;
+    padding: 5px 5px;
+    text-align: center;
+}   
